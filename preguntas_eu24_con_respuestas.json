@@ -1,0 +1,24 @@
+[
+  {
+    "numero": 1,
+    "pregunta": "¿Cuál es la muestra de elección para medir Calcio iónico?",
+    "opciones": [
+      "Plasma con EDTA",
+      "Plasma con Fluoruro de sodio",
+      "Suero en anaerobiosis",
+      "Plasma con Citrato de sodio"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "numero": 2,
+    "pregunta": "¿En qué patología se observa una disminución de amilasa en sangre (hipoamilasemia)?",
+    "opciones": [
+      "Pancreatitis aguda",
+      "Carcinoma de páncreas",
+      "Hepatitis alcohólica aguda",
+      "Pancreatitis crónica avanzada"
+    ],
+    "respuesta_correcta": 3
+  }
+]
